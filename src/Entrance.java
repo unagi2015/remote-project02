@@ -2,8 +2,9 @@
 public class Entrance {
 
 	public static void main(String[] args) {
+
 		// TODO Auto-generated method stub
-		System.out.println('oh my god');
+		System.out.println("oh my god");
 
 	}
 
